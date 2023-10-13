@@ -146,7 +146,7 @@ Para instalar los paquetes usados en el proyecto puede utilizar los siguientes c
 
 ```
 
-$ git clone NicolasCaminos/ProductMannager.git
+$ git clone NicolasCaminos/PrimeraPreentrega.git
 $ npm install
 $ npm init -y
 $ npm install express
