@@ -2,10 +2,17 @@
 	"123": {
 		"products": [
 			{
-				"productId": "456",
-				"quantity": 6
+				"product": "456",
+				"quantity": 24
 			}
 		]
 	},
-	"carts": []
+	"1234": {
+		"products": [
+			{
+				"productId": "456",
+				"quantity": 12
+			}
+		]
+	}
 }
